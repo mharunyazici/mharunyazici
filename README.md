@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Unity Game Developer.<br><Shoot me an email or add me on LinkedIn
+I'm a Unity Game Developer.<br>Shoot me an email or add me on LinkedIn
 
 
 ## 🌐 Socials:
